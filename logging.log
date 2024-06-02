@@ -1,0 +1,161 @@
+[2024-06-02 08:51:00,461] INFO in _internal >>> [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-06-02 08:51:00,479] INFO in _internal >>> [33mPress CTRL+C to quit[0m
+[2024-06-02 08:51:00,485] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 08:51:02,211] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 08:51:02,226] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 08:53:29,726] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 08:53:29,940] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 08:53:31,886] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 08:53:31,901] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 08:56:36,209] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 08:56:36,408] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 08:56:38,173] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 08:56:38,188] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 08:56:44,327] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 08:56:44,506] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 08:56:46,212] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 08:56:46,225] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 08:56:56,399] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 08:56:56,623] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 08:56:58,387] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 08:56:58,410] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 08:56:59,463] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 08:56:59,668] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 08:57:01,410] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 08:57:01,428] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 08:57:05,516] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 08:57:05,702] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 08:57:07,361] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 08:57:07,376] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 08:57:44,497] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:57:44] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-06-02 08:57:44,748] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:57:44] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-06-02 08:57:44,848] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:57:44] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-06-02 08:57:45,045] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:57:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-02 08:57:45,496] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:57:45] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-02 08:58:09,550] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 08:58:09,789] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 08:58:11,720] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 08:58:11,735] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 08:58:18,758] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:58:18] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-06-02 08:58:18,927] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:58:18] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-06-02 08:58:18,993] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:58:18] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-06-02 08:58:19,354] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:58:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-02 08:58:19,622] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:58:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-02 08:58:54,400] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 08:58:54,610] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 08:58:56,726] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 08:58:56,750] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 08:58:56,780] INFO in app >>> User visited the home page
+[2024-06-02 08:58:56,833] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:58:56] "GET / HTTP/1.1" 200 -
+[2024-06-02 08:58:56,994] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:58:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 08:58:57,118] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:58:57] "[36mGET /static/images/school1.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 08:58:57,338] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 08:58:57] "[36mGET /static/images/school7.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:08:09,050] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 09:08:09,245] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 09:08:11,202] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 09:08:11,202] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 09:08:33,594] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 09:08:33,789] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 09:14:06,988] INFO in _internal >>> [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-06-02 09:14:06,988] INFO in _internal >>> [33mPress CTRL+C to quit[0m
+[2024-06-02 09:14:07,005] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 09:14:09,200] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 09:14:09,218] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 09:14:10,834] INFO in app >>> User visited the home page
+[2024-06-02 09:14:10,985] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:14:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-06-02 09:14:11,180] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:14:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:14:11,249] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:14:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-06-02 09:14:11,570] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:14:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-02 09:14:11,832] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:14:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-06-02 09:14:50,017] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 09:14:50,205] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 09:14:52,530] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 09:14:52,557] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 09:14:54,591] INFO in app >>> User visited the home page
+[2024-06-02 09:14:54,907] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:14:54] "GET / HTTP/1.1" 200 -
+[2024-06-02 09:14:55,241] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:14:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:14:55,286] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:14:55] "[36mGET /static/images/school1.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:14:55,735] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:14:55] "[36mGET /static/images/school7.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:16:01,678] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 09:16:01,901] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 09:16:04,353] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 09:16:04,368] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 09:16:04,524] INFO in app >>> User visited the home page
+[2024-06-02 09:16:04,540] INFO in app >>> path: / | method: GET | status: 200 OK | size: 4825
+[2024-06-02 09:16:04,555] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:04] "GET / HTTP/1.1" 200 -
+[2024-06-02 09:16:04,736] INFO in app >>> path: /static/css/style.css | method: GET | status: 304 NOT MODIFIED | size: 13974
+[2024-06-02 09:16:04,752] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:16:04,752] INFO in app >>> path: /static/images/school1.jpg | method: GET | status: 304 NOT MODIFIED | size: 16067141
+[2024-06-02 09:16:04,767] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:04] "[36mGET /static/images/school1.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:16:05,095] INFO in app >>> path: /static/images/school7.jpg | method: GET | status: 304 NOT MODIFIED | size: 5793022
+[2024-06-02 09:16:05,097] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:05] "[36mGET /static/images/school7.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:16:08,051] INFO in app >>> path: /students | method: GET | status: 200 OK | size: 5655
+[2024-06-02 09:16:08,053] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:08] "GET /students HTTP/1.1" 200 -
+[2024-06-02 09:16:08,134] INFO in app >>> path: /static/css/style.css | method: GET | status: 304 NOT MODIFIED | size: 13974
+[2024-06-02 09:16:08,137] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:16:08,440] INFO in app >>> path: /static/js/app.js | method: GET | status: 304 NOT MODIFIED | size: 3373
+[2024-06-02 09:16:08,440] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:08] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+[2024-06-02 09:16:08,483] INFO in app >>> path: /static/images/danger.png | method: GET | status: 304 NOT MODIFIED | size: 3563
+[2024-06-02 09:16:08,486] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:08] "[36mGET /static/images/danger.png HTTP/1.1[0m" 304 -
+[2024-06-02 09:16:29,867] INFO in app >>> path: /students/1 | method: GET | status: 200 OK | size: 2815
+[2024-06-02 09:16:29,867] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:29] "GET /students/1 HTTP/1.1" 200 -
+[2024-06-02 09:16:29,953] INFO in app >>> path: /static/css/style.css | method: GET | status: 304 NOT MODIFIED | size: 13974
+[2024-06-02 09:16:29,956] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:16:30,116] INFO in app >>> path: /static/js/app.js | method: GET | status: 304 NOT MODIFIED | size: 3373
+[2024-06-02 09:16:30,116] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:16:30] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+[2024-06-02 09:18:08,880] INFO in app >>> User visited the home page
+[2024-06-02 09:18:08,883] INFO in app >>> path: / | method: GET | status: 200 OK | size: 4825
+[2024-06-02 09:18:08,885] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:18:08] "GET / HTTP/1.1" 200 -
+[2024-06-02 09:18:09,028] INFO in app >>> path: /static/css/style.css | method: GET | status: 304 NOT MODIFIED | size: 13974
+[2024-06-02 09:18:09,028] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:18:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:18:09,129] INFO in app >>> path: /static/images/school7.jpg | method: GET | status: 304 NOT MODIFIED | size: 5793022
+[2024-06-02 09:18:09,129] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:18:09] "[36mGET /static/images/school7.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:18:09,266] INFO in app >>> path: /static/images/school1.jpg | method: GET | status: 304 NOT MODIFIED | size: 16067141
+[2024-06-02 09:18:09,269] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:18:09] "[36mGET /static/images/school1.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:18:57,418] INFO in _internal >>>  * Detected change in 'C:\\Users\\nehem\\Desktop\\students_app\\app.py', reloading
+[2024-06-02 09:18:57,674] INFO in _internal >>>  * Restarting with stat
+[2024-06-02 09:19:01,525] WARNING in _internal >>>  * Debugger is active!
+[2024-06-02 09:19:01,531] INFO in _internal >>>  * Debugger PIN: 548-715-072
+[2024-06-02 09:20:56,339] INFO in app >>> User visited the home page
+[2024-06-02 09:20:56,379] INFO in app >>> path: / | method: GET | status: 200 OK | size: 4825
+[2024-06-02 09:20:56,382] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:20:56] "GET / HTTP/1.1" 200 -
+[2024-06-02 09:20:56,604] INFO in app >>> path: /static/css/style.css | method: GET | status: 304 NOT MODIFIED | size: 13974
+[2024-06-02 09:20:56,604] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:20:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:20:56,764] INFO in app >>> path: /static/images/school7.jpg | method: GET | status: 304 NOT MODIFIED | size: 5793022
+[2024-06-02 09:20:56,767] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:20:56] "[36mGET /static/images/school7.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:20:56,833] INFO in app >>> path: /static/images/school1.jpg | method: GET | status: 304 NOT MODIFIED | size: 16067141
+[2024-06-02 09:20:56,837] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:20:56] "[36mGET /static/images/school1.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:21:36,538] INFO in app >>> path: /students | method: GET | status: 200 OK | size: 5655
+[2024-06-02 09:21:36,538] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:21:36] "GET /students HTTP/1.1" 200 -
+[2024-06-02 09:21:36,615] INFO in app >>> path: /static/css/style.css | method: GET | status: 304 NOT MODIFIED | size: 13974
+[2024-06-02 09:21:36,615] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:21:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:21:36,924] INFO in app >>> path: /static/js/app.js | method: GET | status: 304 NOT MODIFIED | size: 3373
+[2024-06-02 09:21:36,924] INFO in app >>> path: /static/images/danger.png | method: GET | status: 304 NOT MODIFIED | size: 3563
+[2024-06-02 09:21:36,924] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:21:36] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+[2024-06-02 09:21:36,924] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:21:36] "[36mGET /static/images/danger.png HTTP/1.1[0m" 304 -
+[2024-06-02 09:26:04,810] INFO in csrf >>> The CSRF token is missing.
+[2024-06-02 09:26:04,825] INFO in app >>> path: /students/1/update | method: GET | status: 200 OK | size: 2865
+[2024-06-02 09:26:04,828] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:04] "GET /students/1/update HTTP/1.1" 200 -
+[2024-06-02 09:26:04,943] INFO in app >>> path: /static/css/style.css | method: GET | status: 304 NOT MODIFIED | size: 13974
+[2024-06-02 09:26:04,945] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:26:05,069] INFO in app >>> path: /static/js/app.js | method: GET | status: 304 NOT MODIFIED | size: 3373
+[2024-06-02 09:26:05,069] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:05] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+[2024-06-02 09:26:13,400] INFO in app >>> User visited the home page
+[2024-06-02 09:26:13,403] INFO in app >>> path: / | method: GET | status: 200 OK | size: 4825
+[2024-06-02 09:26:13,405] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:13] "GET / HTTP/1.1" 200 -
+[2024-06-02 09:26:13,767] INFO in app >>> path: /static/css/style.css | method: GET | status: 304 NOT MODIFIED | size: 13974
+[2024-06-02 09:26:13,768] INFO in app >>> path: /static/images/school1.jpg | method: GET | status: 304 NOT MODIFIED | size: 16067141
+[2024-06-02 09:26:13,769] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:26:13,770] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:13] "[36mGET /static/images/school1.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:26:14,024] INFO in app >>> path: /static/images/school7.jpg | method: GET | status: 304 NOT MODIFIED | size: 5793022
+[2024-06-02 09:26:14,026] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:14] "[36mGET /static/images/school7.jpg HTTP/1.1[0m" 304 -
+[2024-06-02 09:26:15,614] INFO in app >>> path: /students | method: GET | status: 200 OK | size: 5655
+[2024-06-02 09:26:15,616] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:15] "GET /students HTTP/1.1" 200 -
+[2024-06-02 09:26:15,935] INFO in app >>> path: /static/css/style.css | method: GET | status: 304 NOT MODIFIED | size: 13974
+[2024-06-02 09:26:15,938] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2024-06-02 09:26:16,012] INFO in app >>> path: /static/js/app.js | method: GET | status: 304 NOT MODIFIED | size: 3373
+[2024-06-02 09:26:16,014] INFO in app >>> path: /static/images/danger.png | method: GET | status: 304 NOT MODIFIED | size: 3563
+[2024-06-02 09:26:16,016] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:16] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+[2024-06-02 09:26:16,021] INFO in _internal >>> 127.0.0.1 - - [02/Jun/2024 09:26:16] "[36mGET /static/images/danger.png HTTP/1.1[0m" 304 -

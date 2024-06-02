@@ -1,0 +1,151 @@
+{%extends 'nav.html'%}
+
+
+{%block content%}
+
+          <img src="{{image_file}}" alt="" class="user-pic" onclick="toggleMenu()">
+        </div>
+        <div class="sub-menu-wrap" id="subMenu">
+          <div class="sub-menu">
+              <div class="user-info">
+                  <img src="{{ image_file }}" alt="" >
+                  <h6>{{ current_user.username }}</h6>
+              </div>
+              <hr>
+              <a href=" {{url_for('user_profile') }} " class="sub-menu-link">
+                  <i class="fa-regular fa-pen-to-square"></i>
+                  <p>Edit Profile</p>
+                  <span>></span>
+              </a>
+              <a href=" {{ url_for('courses') }} " class="sub-menu-link">
+                  <i class="fa-solid fa-cart-shopping"></i>
+                  <p>My Courses</p>
+                  <span>></span>
+              </a>
+              <a href="" class="sub-menu-link">
+                  <i class="fa-solid fa-gears"></i>
+                  <p>Settings</p>
+                  <span>></span>
+              </a>
+              {% if current_user.is_authenticated %}
+              <a href="{{url_for('logout')}}" class="sub-menu-link">
+                  <i class="fa-solid fa-arrow-right-from-bracket"></i>
+                  <p>Sign out</p>
+                  <span>></span>
+              </a>
+              {%endif%}
+              
+          </div>
+      </div>
+      </div>
+    </nav>
+
+<nav class="sidebar">
+<header>
+    <div class="image-text">
+        <span class="image">
+            <img src=" {{url_for('static', filename='images/nehemiah.jpg')}}  " alt="">
+        </span>
+        <div class="text header-text">
+            <span class="module-name"> Introduction to the Program</span>
+
+        </div>
+    </div>
+    <i class="fa-solid fa-chevron-right toggleDrop"></i>
+</header>
+<div class="module-menu-bar">
+    <div class="module-menu">
+        <li class="search-box">
+            <i class="fa-solid fa-magnifying-glass iconS"></i>
+            <input type="search" placeholder="Search...">
+        </li>
+        
+        <ul class="module-menu-links">
+            <li class="module-nav-links">
+                <a href=" {{ url_for('about_program') }} ">
+                    <span class="text nav-text ms-4"> About the Program</span>
+                </a>
+            </li>
+            <li class="module-nav-links">
+                <a href=" {{ url_for('program_duration') }} ">
+                    <span class="text nav-text ms-4"> Program Duration</span>
+                </a>
+            </li>
+            <li class="module-nav-links">
+                <a href=" {{ url_for('join_community') }} ">
+                    <span class="text nav-text ms-4"> Join Your Community</span>
+                </a>
+            </li>
+            <li class="module-nav-links">
+                <a href="">
+                    <span class="text nav-text ms-4"> Content Copyright</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="content-bottom">
+        <li class="module-nav-links">
+            <a href=" {{ url_for('logout') }} ">
+                <i class="fa-solid fa-arrow-right-from-bracket iconS"></i>
+                <span class="text nav-text "> Logout </span>
+            </a>
+        </li>
+        <li class="mode">
+            <div class="moon-sun">
+                <i class="fa-regular fa-moon moon iconS"></i>
+                <i class="fa-regular fa-sun sun"></i>
+            </div>
+            <span class="mode-text text">Dark Mode</span>
+            <div class="toggle-switch">
+                <span class="switch"></span>
+            </div>
+        </li>
+    </div>
+</div>
+</nav>
+
+<div class="col-lg-8 about-program">
+    <div class="text-start mt-2 prof-details mb-2"><h1 >Program Duration</h1>
+    </div>
+   <div class="prof-details  p-lg-4 mt-3 ">
+ 
+    <img src=" {{url_for('static', filename='images/alg-journey.jpeg')}} " alt="" width="700" height="500">
+    <br>
+    <br>
+    <p>
+     Depending on when you enrolled, you have a maximum of 4 weeks from your first day of enrollment to complete all Phase 1 content and pass the Certification Assessment, 
+     passing the assessment within that duration is a must to get your Certificate of Completion. Of course, you can also do that in less than 4 weeks (e.g. 3 weeks or even 2 weeks) if you work harder!
+    </p>
+    <br>
+    <h2> Weekly Schedule</h2>
+    <table>
+        <tr>
+            <th>Week Number</th>
+            <th>Content</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Introduction to Javascript and Program</td>
+            
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Introduction to Python Syntax</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Data Structures and Algorithms</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Functions and Exception Handling</td>
+        </tr>
+
+
+    </table>
+   </div>
+
+  
+</section>
+
+{%endblock%}
